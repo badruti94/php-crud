@@ -8,3 +8,5 @@ echo "hello php";
 //ini insert
 
 //ini read
+
+//ini delete
