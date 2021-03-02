@@ -9,4 +9,8 @@ echo "hello php";
 
 //ini read
 
+
+//ini delete
+
 //ini update
+
